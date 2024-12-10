@@ -25,3 +25,31 @@ This repository showcases my work during my **Java Development Internship** at O
 **Description**:  
 This console-based Java application simulates an ATM system, allowing users to perform essential banking operations like withdrawals, deposits, transfers, and viewing transaction history. Built using five different classes, the project emphasizes modular programming and object-oriented principles.  
 
+
+---
+
+#### 🛠️ Functionalities  
+
+1. **Login System**:  
+   - Users must enter a valid user ID and PIN to access the ATM functionalities.  
+   - Ensures secure access and prevents unauthorized usage.  
+
+2. **Transaction History**:  
+   - Displays a record of all transactions (withdrawals, deposits, and transfers) during the session.  
+
+3. **Withdraw**:  
+   - Allows users to withdraw a specified amount, ensuring sufficient balance availability.  
+
+4. **Deposit**:  
+   - Enables users to deposit money into their account and updates the balance accordingly.  
+
+5. **Transfer**:  
+   - Facilitates transferring funds to another account securely and efficiently.  
+
+6. **Quit**:  
+   - Provides an option to exit the application gracefully.
+  
+  ---
+
+
+
